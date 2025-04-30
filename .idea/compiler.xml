@@ -5,6 +5,9 @@
       <module name="cache-sample" target="23" />
       <module name="cache-sample.main" target="23" />
       <module name="cache-sample.test" target="23" />
+      <module name="url-shortener-sample" target="23" />
+      <module name="url-shortener-sample.main" target="23" />
+      <module name="url-shortener-sample.test" target="23" />
     </bytecodeTargetLevel>
   </component>
 </project>
