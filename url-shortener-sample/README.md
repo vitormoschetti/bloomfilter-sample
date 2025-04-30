@@ -3,7 +3,7 @@
 #### Autor: Vitor Moschetti
 #### Proposta: Utilizar a estrutura Bloom Filter para evitar colisão de dados em um sistema de encurtar URLs.
 
-## Design arquitetural:
+## Arquitetura da solução:
 
 #### Cenário:
 
@@ -63,6 +63,6 @@ Ela é utilizada para testar se um elemento está presente em um conjunto sem ne
 Eventualmente, a estrutura pode apontar um falso positivo (indicando que um elemento está em um conjunto quando, na verdade, não está). 
 Entretanto, jamais gera um falso negativo.
 
-Quanto mais elementos são adicionados a uma Bloom filter, maiores são as chances de um falso positivo.
+Quanto mais elementos são adicionados a uma Bloom Filter, maiores são as chances de um falso positivo.
 
 #### Fonte do estudo: https://arquiteturadesoftware.online/volume-1/iniciando-o-design-arquitetural-de-um-encurtador-de-urls/
