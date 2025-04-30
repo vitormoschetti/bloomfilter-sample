@@ -3,9 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/bloomfilter-sample.iml" filepath="$PROJECT_DIR$/.idea/bloomfilter-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cache-sample.iml" filepath="$PROJECT_DIR$/cache-sample.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cache-sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/cache-sample.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/url-shortener-sample/url-shortener-sample.iml" filepath="$PROJECT_DIR$/url-shortener-sample/url-shortener-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/url-shortener-sample.main.iml" filepath="$PROJECT_DIR$/.idea/modules/url-shortener-sample.main.iml" />
     </modules>
   </component>
 </project>
